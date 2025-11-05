@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Mike Chen",
+      "title": "The Future of Web Development",
+      "content": "Web development is evolving rapidly with new frameworks and tools emerging every day. Staying ahead of trends is key for developers to remain competitive.",
+      "timeAgo": "22h ago",
+      "commentsCount": 2,
+      "imageUrl": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "author": "Emily Davis",
+      "title": "Best Practices for API Design",
+      "content": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and response structures to ensure scalability and maintainability.",
+      "timeAgo": "2d ago",
+      "commentsCount": 1,
+      "imageUrl": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "author": "Sarah Johnson",
+      "title": "TypeScript Tips and Tricks",
+      "content": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code with better tooling support.",
+      "timeAgo": "2d ago",
+      "commentsCount": 0,
+      "imageUrl": "https://i.pravatar.cc/150?img=3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "user": "John Doe",
+      "content": "Great insights! Web development is definitely changing fast.",
+      "timeAgo": "21h ago"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "user": "Alice Brown",
+      "content": "Thanks for sharing, I agree that staying up-to-date is critical.",
+      "timeAgo": "20h ago"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "user": "Mark Lee",
+      "content": "Excellent advice on designing APIs, thank you!",
+      "timeAgo": "1d ago"
+    }
+  ]
+}
