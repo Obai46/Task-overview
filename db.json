@@ -4,51 +4,43 @@
       "id": 1,
       "author": "Mike Chen",
       "title": "The Future of Web Development",
-      "content": "Web development is evolving rapidly with new frameworks and tools emerging every day. Staying ahead of trends is key for developers to remain competitive.",
-      "createdAt": "2025-11-04T14:00:00Z",
-      "commentsCount": 2,
-      "imageUrl": "https://i.pravatar.cc/150?img=1"
+      "body": "Web development is evolving rapidly with new frameworks and tools emerging every day. Staying up to date is crucial for modern developers.",
+      "date": "2025-10-13T18:45:00Z",
+      "avatarUrl": "https://i.pravatar.cc/150?img=1"
     },
     {
       "id": 2,
       "author": "Emily Davis",
       "title": "Best Practices for API Design",
-      "content": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and response structures to ensure scalability and maintainability.",
-      "createdAt": "2025-11-03T10:30:00Z",
-      "commentsCount": 1,
-      "imageUrl": "https://i.pravatar.cc/150?img=2"
+      "body": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and error handling to create scalable systems.",
+      "date": "2025-10-12T09:30:00Z",
+      "avatarUrl": "https://i.pravatar.cc/150?img=5"
     },
     {
       "id": 3,
       "author": "Sarah Johnson",
       "title": "TypeScript Tips and Tricks",
-      "content": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code with better tooling support.",
-      "createdAt": "2025-11-02T08:15:00Z",
-      "commentsCount": 0,
-      "imageUrl": "https://i.pravatar.cc/150?img=3"
+      "body": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code.",
+      "date": "2025-10-12T07:10:00Z",
+      "avatarUrl": "https://i.pravatar.cc/150?img=2"
     }
   ],
   "comments": [
     {
       "id": 1,
       "postId": 1,
-      "user": "John Doe",
-      "content": "Great insights! Web development is definitely changing fast.",
-      "createdAt": "2025-11-04T15:00:00Z"
+      "name": "Pat Wilson",
+      "email": "pat@example.com",
+      "body": "The pace of change can be overwhelming sometimes!",
+      "createdAt": "2025-10-13T20:00:00Z"
     },
     {
       "id": 2,
       "postId": 1,
-      "user": "Alice Brown",
-      "content": "Thanks for sharing, I agree that staying up-to-date is critical.",
-      "createdAt": "2025-11-04T16:00:00Z"
-    },
-    {
-      "id": 3,
-      "postId": 2,
-      "user": "Mark Lee",
-      "content": "Excellent advice on designing APIs, thank you!",
-      "createdAt": "2025-11-03T12:00:00Z"
+      "name": "John Smith",
+      "email": "john@example.com",
+      "body": "I totally agree, keeping up is challenging but fun!",
+      "createdAt": "2025-10-13T21:00:00Z"
     }
   ]
 }
