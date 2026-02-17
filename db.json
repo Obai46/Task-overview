@@ -4,7 +4,8 @@
       "id": 1,
       "author": "Mike Chen",
       "avatar": "https://i.pravatar.cc/150?img=1",
-      "time": "22h ago",
+      "time":"2025-10-13T18:45:00Z",
+
       "title": "The Future of Web Development",
       "body": "Web development is evolving rapidly with new frameworks and tools emerging every day.Staying up to date is crucial for modern developers.",
       "comments": 1
@@ -13,7 +14,7 @@
       "id": 2,
       "author": "Emily Davis",
       "avatar": "https://i.pravatar.cc/150?img=2",
-      "time": "2d ago",
+      "time": "2025-10-12T09:30:00Z",
       "title": "Best Practices for API Design",
       "body": "Designing RESTful APIs requires careful consideration of endpoints HTTP methods, and error handling to create scalable systems.",
       "comments": 1
@@ -22,10 +23,29 @@
       "id": 3,
       "author": "Sarah Johnson",
       "avatar": "https://i.pravatar.cc/150?img=3",
-      "time": "2d ago",
+      "time": "2025-10-13T18:45:00Z",
       "title": "TypeScript Tips and Tricks",
       "body": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code.",
       "comments": 0
     }
+  ],
+   "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Pat Wilson",
+      "email": "pat@example.com",
+      "body": "The pace of change can be overwhelming sometimes!",
+      "createdAt": "2025-10-13T20:00:00Z"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "name": "John Smith",
+      "email": "john@example.com",
+      "body": "I totally agree, keeping up is challenging but fun!",
+      "createdAt": "2025-10-13T21:00:00Z"
+    }
   ]
+}
 }
