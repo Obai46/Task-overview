@@ -6,7 +6,7 @@
       "avatar": "https://i.pravatar.cc/150?img=1",
       "time": "22h ago",
       "title": "The Future of Web Development",
-      "body": "Web development is evolving rapidly with new frameworks and tools emerging every day.",
+      "body": "Web development is evolving rapidly with new frameworks and tools emerging every day.Staying up to date is crucial for modern developers.",
       "comments": 1
     },
     {
@@ -15,7 +15,7 @@
       "avatar": "https://i.pravatar.cc/150?img=2",
       "time": "2d ago",
       "title": "Best Practices for API Design",
-      "body": "Designing RESTful APIs requires careful consideration of endpoints and HTTP methods.",
+      "body": "Designing RESTful APIs requires careful consideration of endpoints HTTP methods, and error handling to create scalable systems.",
       "comments": 1
     },
     {
@@ -24,7 +24,7 @@
       "avatar": "https://i.pravatar.cc/150?img=3",
       "time": "2d ago",
       "title": "TypeScript Tips and Tricks",
-      "body": "TypeScript adds type safety to JavaScript, helping you catch errors early.",
+      "body": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code.",
       "comments": 0
     }
   ]
